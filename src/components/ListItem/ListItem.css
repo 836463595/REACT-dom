@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.del {
+  float: right;
+  margin-right: 10px;
+}
+.list-item {
+  
+  width: 80%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin:  10px auto;
+  background: #f5f2f2;
+  color: black;
+  border: 1px solid #f5f2f2;
+  border-radius: 5px;
+  
+  
+}
+.ant-typography {
+    margin-left: 10px;
+    margin-bottom: 0em;
+}
+

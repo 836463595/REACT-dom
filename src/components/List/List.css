@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.wrap {
+  width: 50%;
+  height: 700px;
+  margin:  60px  auto;
+  background: rgba(214, 211, 211, 0.533);
+  
+}
+.list {
+  height: 500px;
+  margin-top: 50px;
+  overflow:auto;
+}
+
+h1 {
+  color: #999
+}
+.ant-input {
+  width: 80%;
+}
